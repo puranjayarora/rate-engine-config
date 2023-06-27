@@ -1,6 +1,6 @@
 spring:
  application:
-  name: CONFIG-SERVICE-DEFAULT
+  name: RATE-ENGINE-DEFAULT
 eureka:
  instance:
    prefer-ip-address: true
